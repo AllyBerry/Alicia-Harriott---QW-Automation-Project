@@ -8,7 +8,7 @@
     "wdio": "wdio run ./wdio.conf.js"
   },
   "keywords": [],
-  "author": "",
+  "author": "Alicia Harriott",
   "license": "ISC",
   "dependencies": {
     "webdriverio": "^8.0.12"
